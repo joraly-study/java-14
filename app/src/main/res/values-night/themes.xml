@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SharedReference" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorTertiary">@color/indigo</item>
+        <item name="colorBackgroundFloating">@color/sky_blue</item>
+        <item name="colorPrimary">@color/dark_purple</item>
+    </style>
+
+    <style name="MyImageButton">
+        <item name="color">@color/blue_gray</item>
+    </style>
+</resources>
